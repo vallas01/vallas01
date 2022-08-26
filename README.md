@@ -17,13 +17,15 @@ Hi there 👋
 
 St Augustine, Florida - USA
 
-About Me
+## 👯 About Me
 
 After finding myself struggling to help my middle schooler with an Arduino STEM project, this electrical engineer decided it was time to completely update his computer science skills. Maybe it was overkill but this year I enrolled in a thousand hour software engineering bootcamp and along the way found that my passion for building things and my passion for coding intersect. My coding proficiencies now include Javascript, React, Redux, Python, Flask, PostgresQL, Node.js and Express.
 
 If you are looking for a passionate software engineer or if you just need a few pointers on your kid's STEM project, send me an email or give me call and I would be happy to speak with you.
 
-📫 How to reach me: ...vallasac@gmail.com
+## 📫 How to reach me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vallasac@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vallas/)
 
 ## 📊 My Github status:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vallas01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
