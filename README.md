@@ -1,5 +1,4 @@
-### Andrew Vallas
-
+## 👋Hi there, I'm Andy Vallas 
 <!--
 **vallas01/vallas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
