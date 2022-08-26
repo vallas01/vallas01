@@ -25,6 +25,10 @@ If you are looking for a passionate software engineer or if you just need a few 
 
 📫 How to reach me: ...vallasac@gmail.com
 
+## 📊 My Github status:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vallas01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+## 🙋‍♂️What I can do:
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
