@@ -49,4 +49,5 @@ If you are looking for a passionate software engineer or if you just need a few 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   
 </div>
-⚡ Fun fact: We have a farm in Brazil!
+##⚡ Fun fact: 
+I was a Captain in the US Army Reserves
