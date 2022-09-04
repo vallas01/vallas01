@@ -51,4 +51,4 @@ If you are looking for a passionate software engineer or if you just need a few 
 </div>
 
 ## ⚡ Fun fact: 
-I was a US Army Engineer Captain where I learned how to build bridges and then blow them up...
+I was a US Army Engineer Captain where I learned how to build bridges and then blow them up.
