@@ -15,7 +15,7 @@ Hi there 👋
 -->
 
 
-St Augustine, Florida - USA
+East Coast - USA
 
 ## 👯 About Me
 
@@ -24,7 +24,6 @@ After finding myself struggling to help my middle schooler with an Arduino STEM 
 If you are looking for a passionate software engineer or if you just need a few pointers on your kid's STEM project, send me an email or give me call and I would be happy to speak with you.
 
 ## 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vallasac@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vallas/)
 
 ## 📊 My Github status:
