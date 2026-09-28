@@ -19,9 +19,18 @@ East Coast - USA
 
 ## 👯 About Me
 
-After finding myself struggling to help my middle schooler with an Arduino STEM project, this electrical engineer decided it was time to completely update his computer science skills. Maybe it was overkill but this year I enrolled in a thousand hour software engineering bootcamp and along the way found that my passion for building things and my passion for coding intersect. My coding proficiencies now include Javascript, React, Redux, Python, Flask, PostgresQL, Node.js and Express.
+I'm a frontend engineer who builds data-heavy React and TypeScript applications for enterprise SaaS.
 
-If you are looking for a passionate software engineer or if you just need a few pointers on your kid's STEM project, send me an email or give me call and I would be happy to speak with you.
+My path here was unusual. I started as an electrical engineer, worked my way up to VP of Energy Trading, and then found myself struggling to help my middle schooler with an Arduino STEM project. That was the push I needed to sharpen my computer science skills, so I enrolled in App Academy's intensive software engineering bootcamp. I discovered that my love of building things and my love of coding are the same thing. Four years later, I'm still building.
+
+### What I work with
+- **Frontend:** React 18, TypeScript, React Router, Material UI, Tailwind CSS, styled-components
+- **State & data:** Zustand, TanStack Query, Axios, WebSockets
+- **Data grids & charts:** AG Grid Enterprise, amCharts, Recharts
+- **Testing & tooling:** Vitest, React Testing Library, Storybook, Vite, Docker
+
+### Let's talk
+I'm open to frontend React roles. If you're hiring, or if you just need a few pointers on your kid's STEM project, email me at vallasac@gmail.com. I'd be happy to help.
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-vallas/)
